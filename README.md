@@ -1,7 +1,7 @@
 <h1 align="center">FlexBlog</h1>
 
 <p align="center">
-Projeto desenvolvido durante curso de CSS Flexbox da Origamid.
+Projeto web desenvolvido durante curso de CSS Flexbox da Origamid.
 </p>
 
 <p align="center">
